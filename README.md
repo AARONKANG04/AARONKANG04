@@ -7,4 +7,4 @@ i like building ml systems from scratch and then making them fast.
 - [aar-vlm](https://github.com/AARONKANG04/aar-vlm) — 1b vision-language model with a custom c++/cuda backend
 - [papers](https://github.com/AARONKANG04/papers) — pytorch reimplementations of ml research papers
 
-math @ uwaterloo. violin and piano when i'm not at a terminal :)
+math @ uwaterloo. violin and piano when i'm not coding :)
