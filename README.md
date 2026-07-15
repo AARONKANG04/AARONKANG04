@@ -1,4 +1,4 @@
-hi, i'm aaron!
+hi, i'm aaron
 
 i like building ml systems from scratch and then making them fast.
 
